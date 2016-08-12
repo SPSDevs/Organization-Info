@@ -5,9 +5,12 @@
 # Owners
 
 - JoeTheHuman (Joe)
-- XeliteXirish (Shaun)
 
 # Members
 
 - HexGate
 - Newtsrock
+- XeliteXirish (Shaun)
+- Floogulinc
+- Lyxnx
+- AsharAhmed

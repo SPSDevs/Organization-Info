@@ -1,16 +1,16 @@
 # Organization Info
 
-**Only CEOs, along with Joe are to become owners. Anyone else should remain as a member**
+**Please send any of the owners a pm about joining a project and we'll be sure to fill you in on what to do!**
 
 # Owners
 
-- JoeTheHuman (Joe)
+- XeliteXirish (Shaun)
+- Floogulinc
+- GG142
 
 # Members
 
 - HexGate
 - Newtsrock
-- XeliteXirish (Shaun)
-- Floogulinc
 - Lyxnx
 - AsharAhmed

@@ -7,7 +7,7 @@
 - Universal Desktop Applications - JoeTheHuman, Andrew Fluck
 - Windows Applications - JoeTheHuman
 - Android Development - XeliteXirish, Andrew Fluck
-- iOS Development - We ***NEED*** people good with Swift and ObjC.
+- iOS Development - We ***NEED*** people good with Swift and Obj-C.
 - Web Applications - JoeTheHuman, Floogulinc, Andrew Fluck
 - Website - JoeTheHuman, Andrew Fluck
 

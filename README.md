@@ -11,7 +11,10 @@
 - Web Applications - JoeTheHuman, Floogulinc, Andrew Fluck
 - Website - JoeTheHuman, Andrew Fluck
 
-#Organization Leaders (Note: We are just guiding the members of the org, none of us are solely the 'leader')
+#Organization Leaders
+
+**Note: We are just guiding the members of the org, none of us are solely the 'leader'**
+
 - JoeTheHuman
 - XeliteXirish
 - Andrew Fluck

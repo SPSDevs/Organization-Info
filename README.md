@@ -25,7 +25,7 @@
 - JoeTheHuman
 - XeliteXirish
 - Andrew Fluck
-- Floogulinc
+- floogulinc
 
 ## Teams Breakdown
 

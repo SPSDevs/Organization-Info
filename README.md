@@ -10,13 +10,13 @@
 
 ## Teams And Leaders
 
-- API Applications - JoeTheHuman, XeliteXirish
+- API Applications - JoeTheHuman, XeliteXirish, Gilbert Gobbels
 - Universal Desktop Applications - JoeTheHuman, Andrew Fluck
 - Windows Applications - JoeTheHuman
 - Android Development - XeliteXirish, Andrew Fluck
 - iOS Development - AsharAhmed, Relative
-- Web Applications - JoeTheHuman, Floogulinc, Andrew Fluck
-- Website - JoeTheHuman, Andrew Fluck
+- Web Applications - JoeTheHuman, Floogulinc, Andrew Fluck, Gilbert Gobbels
+- Website - JoeTheHuman, Andrew Fluck, Gilbert Gobbels
 
 ## Organization Leaders
 
@@ -26,6 +26,7 @@
 - XeliteXirish
 - Andrew Fluck
 - floogulinc
+- Gilbert Gobbels
 
 ## Teams Breakdown
 

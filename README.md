@@ -11,18 +11,17 @@
 ## Teams And Leaders
 
 - API Applications - JoeTheHuman, XeliteXirish, Gilbert Gobbels
-- Universal Desktop Applications - JoeTheHuman, Andrew Fluck
-- Windows Applications - JoeTheHuman
+- Universal Desktop Applications - Andrew Fluck
+- Windows Applications - Not to sure
 - Android Development - XeliteXirish, Andrew Fluck
 - iOS Development - AsharAhmed, Relative
-- Web Applications - JoeTheHuman, Floogulinc, Andrew Fluck, Gilbert Gobbels
+- Web Applications - Floogulinc, Andrew Fluck, Gilbert Gobbels
 - Website - JoeTheHuman, Andrew Fluck, Gilbert Gobbels
 
 ## Organization Leaders
 
 **Note: We are just guiding the members of the org, none of us are solely the 'leader'**
 
-- JoeTheHuman
 - XeliteXirish
 - Andrew Fluck
 - floogulinc

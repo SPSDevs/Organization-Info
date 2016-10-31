@@ -10,13 +10,13 @@
 
 ## Teams And Leaders
 
-- API Applications - XeliteXirish, Gilbert Gobbels
-- Universal Desktop Applications - Andrew Fluck
-- Windows Applications - Not to sure
+- API Applications - XeliteXirish, Gilbert Gobbels, DevJoe, Kelwing
+- Universal Desktop Applications - Andrew Fluck, DevJoe
+- Windows Applications - DevJoe
 - Android Development - XeliteXirish, Andrew Fluck
 - iOS Development - AsharAhmed, Relative
-- Web Applications - Floogulinc, Andrew Fluck, Gilbert Gobbels
-- Website - Andrew Fluck, Gilbert Gobbels
+- Web Applications - Floogulinc, Andrew Fluck, Gilbert Gobbels, Kelwing, DevJoe
+- Website - Andrew Fluck, Gilbert Gobbels, XeliteXirish
 
 ## Organization Leaders
 
@@ -26,6 +26,8 @@
 - Andrew Fluck
 - floogulinc
 - Gilbert Gobbels
+- Kelwing
+- DevJoe
 
 ## Teams Breakdown
 

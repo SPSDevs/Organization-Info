@@ -22,10 +22,10 @@
 
 **The Organization Leaders are a group of developers which guide the organization and administrate it's servers and internal affairs. The current leaders take group votes on matters as promoting or removing (new) leaders/developers. Leaders only control the bigger picture, and individual projects run by developers are often untouched. However, the current group of leaders has the right to disband any of The Organization's projects at any moment, for any reason. Disbanded projects are not connected to- or under the responsibility of- TCDG in any way.**
 
-- XeliteXirish (EDB, LogBot, Website, SP, Lead Android, Founder)
 - Andrew Fluck (Website, Community (Discord) Manager, Lead Design)
 - Gilbert Gobbels (System Administrator, SP, Lead Back-End (Node.js), Founder)
 - Kelwing (System Administrator, Auttaja, SP, Lead System Structure)
+- XeliteXirish (EDB, LogBot, Website, SP, Lead Android, Founder)
 
 ## Teams Breakdown
 

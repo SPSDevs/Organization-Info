@@ -1,6 +1,6 @@
 # Organization Info
 
-**Please send any of the owners a pm about joining a project and we'll be sure to fill you in on what to do!**
+**Please send any of the leaders a pm about joining a project and we'll be sure to fill you in on what to do!**
 
 ### Table of Contents
 

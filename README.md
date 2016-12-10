@@ -7,7 +7,7 @@
 * [Teams & Leaders](#teams-and-leaders)
 * [Organization Leaders](#organization-leaders)
 * [Teams Breakdown](#teams-breakdown)
-
+* [Organization Leaders Activity Log] (#organization-leaders-activity-log)
 ## Teams And Leaders
 
 - API Applications - XeliteXirish, Gilbert Gobbels, DevJoe, Kelwing
@@ -24,7 +24,7 @@
 
 - XeliteXirish (EDB, LogBot, Website, SP, Lead Android, Founder)
 - Andrew Fluck (Website, Community (Discord) Manager, Lead Design)
-- Gilbert Gobbels (System Administrator, Lead Back-End (Node.js), Founder)
+- Gilbert Gobbels (System Administrator, SP, Lead Back-End (Node.js), Founder)
 - Kelwing (System administrator, Auttaja, SP, Lead System Structure)
 
 ## Teams Breakdown

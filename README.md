@@ -25,7 +25,7 @@
 - XeliteXirish (EDB, LogBot, Website, SP, Lead Android, Founder)
 - Andrew Fluck (Website, Community (Discord) Manager, Lead Design)
 - Gilbert Gobbels (System Administrator, SP, Lead Back-End (Node.js), Founder)
-- Kelwing (System administrator, Auttaja, SP, Lead System Structure)
+- Kelwing (System Administrator, Auttaja, SP, Lead System Structure)
 
 ## Teams Breakdown
 

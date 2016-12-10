@@ -20,18 +20,16 @@
 
 ## Organization Leaders
 
-**Note: We are just guiding the members of the org, none of us are solely the 'leader'**
+**The Organization Leaders are a group of developers which guide the organization and administrate it's servers and internal affairs. The current leaders take group votes on matters as promoting or removing (new) leaders/developers. Leaders only control the bigger picture, and individual projects run by developers are often untouched. However, the current group of leaders has the right to disbandon any of The Organization's projects at any moment, for any reason. Disbandonned projects are not connected to- or under the responsibility of- TCDG in any way.**
 
-- XeliteXirish
-- Andrew Fluck
-- floogulinc
-- Gilbert Gobbels
-- Kelwing
-- DevJoe
+- XeliteXirish (EDB, LogBot, Website, SP, Lead Android, Founder)
+- Andrew Fluck (Website, Lead Design)
+- Gilbert Gobbels (System Administrator, Lead Back-End (Node.js), Founder)
+- Kelwing (System administrator, Auttaja, SP, Lead System Structure)
 
 ## Teams Breakdown
 
-### API Applications
+#### API Applications
 
 Applications that rely on an API to work<br>
 Eg: discord bots
@@ -60,3 +58,8 @@ Eg: applications written in java as it is platform independent
 
 Applications that are for the Apple's operating systems<br>
 Eg: iOS apps or apps for OSX
+
+## Organization Leaders Activity Log
+- 2016/11/?? Floogulinc removed from Leadership due to inactivity
+- 2016/11/?? Kelwing Promoted to Leadership, approved by vote 4-0
+- 2016/11/?? DevJoe retired from TCDG (Leadership)

@@ -7,7 +7,7 @@
 * [Teams & Leaders](#teams-and-leaders)
 * [Organization Leaders](#organization-leaders)
 * [Teams Breakdown](#teams-breakdown)
-* [Organization Leaders Activity Log] (#organization-leaders-activity-log)
+* [Organization Leaders Activity Log](#organization-leaders-activity-log)
 ## Teams And Leaders
 
 - API Applications - XeliteXirish, Gilbert Gobbels, DevJoe, Kelwing
